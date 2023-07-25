@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "N4R6y936W2yXEMpPQcjjLXOQv3TGJqayYtedzsDMME8=",
+  "Source": "AdoNetMVC",
+  "BasePath": "_content/AdoNetMVC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AdoNetMVC/wwwroot",
+      "Source": "AdoNetMVC",
+      "ContentRoot": "/Users/mcloveen/Projects/AdoNetMVC/AdoNetMVC/wwwroot/",
+      "BasePath": "_content/AdoNetMVC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/mcloveen/Projects/AdoNetMVC/AdoNetMVC/wwwroot/assets/favicon.ico",
+      "SourceId": "AdoNetMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mcloveen/Projects/AdoNetMVC/AdoNetMVC/wwwroot/",
+      "BasePath": "_content/AdoNetMVC",
+      "RelativePath": "assets/favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/favicon.ico"
+    },
+    {
+      "Identity": "/Users/mcloveen/Projects/AdoNetMVC/AdoNetMVC/wwwroot/css/styles.css",
+      "SourceId": "AdoNetMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mcloveen/Projects/AdoNetMVC/AdoNetMVC/wwwroot/",
+      "BasePath": "_content/AdoNetMVC",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/styles.css"
+    },
+    {
+      "Identity": "/Users/mcloveen/Projects/AdoNetMVC/AdoNetMVC/wwwroot/js/scripts.js",
+      "SourceId": "AdoNetMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mcloveen/Projects/AdoNetMVC/AdoNetMVC/wwwroot/",
+      "BasePath": "_content/AdoNetMVC",
+      "RelativePath": "js/scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/scripts.js"
+    }
+  ]
+}
